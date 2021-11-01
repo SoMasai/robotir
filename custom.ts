@@ -67,7 +67,7 @@ const enum IrProtocol {
 /**
  * Custom blocks
  */
-//% weight=100 color=#0fbc11 icon="\f013"
+//% weight=100 color=#0fbc11 icon="\uf013"
 namespace RobotCoders {
 
     let irState: IrState;
